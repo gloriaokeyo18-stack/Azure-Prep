@@ -1,0 +1,6 @@
+{
+  "name": "AzurePrep — Learn the Why",
+  "description": "Interactive Microsoft Azure Fundamentals (AZ-900) practice platform with option-by-option explanations, topic analytics, mistake review, and timed mock exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
